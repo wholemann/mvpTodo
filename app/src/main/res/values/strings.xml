@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvpTodo</string>
+    <string name="todo_completed">Done</string>
+    <string name="todo_active">Active</string>
+</resources>
